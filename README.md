@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Esa</h1>
-<h3 align="center">"Passionate full-stack developer skilled in GenAi-based development. Committed to crafting seamless user experiences and contributing innovative solutions to new challenges.</h3>
+<h3 align="center">Passionate full-stack developer skilled in GenAi-based development. Committed to crafting seamless user experiences and contributing innovative solutions to new challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esa-m&label=Profile%20views&color=0e75b6&style=flat" alt="esa-m" /> </p>
 
