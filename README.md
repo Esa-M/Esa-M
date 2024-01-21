@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Mohamed Esa
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is I'm Mohamed Esa
 =======================================================================================================================================
 
 Passionate full-stack developer skilled in GenAi-based development. Committed to crafting seamless user experiences and contributing innovative solutions to new challenges.
@@ -30,3 +30,4 @@ Passionate full-stack developer skilled in GenAi-based development. Committed to
 
 <a href="http://www.github.com/Esa-M"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Esa-M&bg_color=0f172a&color=ffffff&line=a855f7&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+<a href="https://github.com/Esa-M" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esa-M&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
