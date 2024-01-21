@@ -1,7 +1,4 @@
-![](https://www.behance.net/gallery/161921919/Portrait-animated-gif)
-
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Mohamed Esa
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Mohamed Esa
 =======================================================================================================================================
 
 Passionate full-stack developer skilled in GenAi-based development. Committed to crafting seamless user experiences and contributing innovative solutions to new challenges.
@@ -31,4 +28,5 @@ Passionate full-stack developer skilled in GenAi-based development. Committed to
 
 <a href="http://www.github.com/Esa-M"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Esa-M&stroke=ffffff&background=0f172a&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<a href="http://www.github.com/Esa-M"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Esa-M&bg_color=0f172a&color=ffffff&line=a855f7&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
