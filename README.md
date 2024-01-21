@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Esa</h1>
 <h3 align="center">"Passionate full-stack developer skilled in GenAi-based development. Committed to crafting seamless user experiences and contributing innovative solutions to new challenges.</h3>
-
+<img width="400" alt=""  src="https://www.behance.net/gallery/161921919/Portrait-animated-gif"  align="right"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esa-m&label=Profile%20views&color=0e75b6&style=flat" alt="esa-m" /> </p>
 
 - 🔭 I’m currently working on **Si-GPT projects, emphasizing LLM (Llama 2, Mistral) and employing custom datasets for specific tasks.**
