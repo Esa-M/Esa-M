@@ -28,4 +28,4 @@ Passionate full-stack developer skilled in GenAi-based development. Committed to
 
 <a href="http://www.github.com/Esa-M"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Esa-M&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Esa-M"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Esa-M&bg_color=000000&color=ffffff&line=10b981&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
