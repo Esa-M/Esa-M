@@ -11,6 +11,9 @@ Passionate full-stack developer skilled in GenAi-based development. Committed to
 * ✉️  You can contact me at [mohammedesa207@gmail.com](mailto:mohammedesa207@gmail.com)
 * 🧠  I'm learning langchain
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=esa-m&label=Profile%20views&color=0e75b6&style=flat" alt="esa-m" /> </p>
+
+
 ### Skills
 
 
