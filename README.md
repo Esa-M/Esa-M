@@ -4,9 +4,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Mohamed Esa
 =======================================================================================================================================
 
-Passionate full-stack developer skilled in GenAi-based development. Committed to crafting seamless user experiences and contributing innovative solutions to new challenges
-
-
+Passionate full-stack developer skilled in GenAi-based development. Committed to crafting seamless user experiences and contributing innovative solutions to new challenges.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * 🖥️  See my portfolio at [@Esa](http://portfolio-esa.web.app/)
